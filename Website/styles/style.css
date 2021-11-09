@@ -9,3 +9,11 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+p.dagboek {
+	background-color: wheat;
+	padding: 5px;	
+	color: darkred;
+	font-family: "Chiller", "Papyrus", sans-serif;
+	font-size: 22pt;
+}
